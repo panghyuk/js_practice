@@ -1,1 +1,1 @@
-# js_practice
+# 멋사 9기 Javascript 
